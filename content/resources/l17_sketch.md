@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/362ca81a4772996e0470c2635a0f6bb9_l17_sketch.pdf
+file: /media/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/362ca81a4772996e0470c2635a0f6bb9_l17_sketch.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: l17_sketch.pdf
 uid: 362ca81a-4772-996e-0470-c2635a0f6bb9
