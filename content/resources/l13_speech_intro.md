@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a8c50161-3362-2f62-aaa2-7c5225f388bf
 resourcetype: Document
 title: l13_speech_intro.pdf
 uid: b26449e8-cbab-cc2c-cc04-0d00d4632665

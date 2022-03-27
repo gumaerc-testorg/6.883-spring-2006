@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a8c50161-3362-2f62-aaa2-7c5225f388bf
 resourcetype: Document
 title: l2_gui_pyt_int.pdf
 uid: 9e346e31-3f38-647f-74d0-26d4dc6fcd71

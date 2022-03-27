@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a8c50161-3362-2f62-aaa2-7c5225f388bf
 resourcetype: Document
 title: l16_kiosk.pdf
 uid: 6cbc1ad8-7a18-cdf8-43e7-5f40fc6fdaba

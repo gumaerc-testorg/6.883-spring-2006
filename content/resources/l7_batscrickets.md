@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a8c50161-3362-2f62-aaa2-7c5225f388bf
 resourcetype: Document
 title: l7_batscrickets.pdf
 uid: 3ef14f36-5936-b016-b8ae-dc689b1e8843

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a8c50161-3362-2f62-aaa2-7c5225f388bf
 resourcetype: Document
 title: l2_ipaqlinux_hic.pdf
 uid: 7eb8f232-5934-48d4-e959-38c2cf930333
