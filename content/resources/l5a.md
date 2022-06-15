@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes on GPS, positioning, Location specifiers and
   privacy issues.
-file: /media/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/9b89ed7b98bc66fe0ab52e681e933094_l5a.pdf
+file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/9b89ed7b98bc66fe0ab52e681e933094_l5a.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: l5a.pdf
 uid: 9b89ed7b-98bc-66fe-0ab5-2e681e933094
 ---
+This file contains notes on GPS, positioning, Location specifiers and privacy issues.
+

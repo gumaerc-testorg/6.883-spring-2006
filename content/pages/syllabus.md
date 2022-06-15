@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Syllabus section contains the prerequisites, grading criteria, information
+  about assignments and exams.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -35,7 +37,7 @@ The largest contribution to your grade will be the course project, in which you 
 
 Problem sets and homeworks will be assigned periodically.
 
-There will be one quiz, given during class time. See the course [calendar]({{< baseurl >}}/pages/calendar) for the sessions. There will be no final exam.
+There will be one quiz, given during class time. See the course {{% resource_link d1ff8101-2dbf-5dc2-013d-8e34033f4948 "calendar" %}} for the sessions. There will be no final exam.
 
 This is a graduate class, and we will be reading and discussing research papers. Preparation, attendance, and participation in class will also be a factor in your grade!
 

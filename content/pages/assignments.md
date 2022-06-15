@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Assignments section contains the assignments for the topics covered in
+  the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,7 +27,7 @@ Topics
 Problem Set 1
 {{< tdclose >}}
 {{< tdopen >}}
-Transferring information between handhelds ([PDF]({{< baseurl >}}/resources/ps1))
+Transferring information between handhelds ({{% resource_link e2de8d79-fab2-81f6-0130-6a460904fc9e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +36,7 @@ Transferring information between handhelds ([PDF]({{< baseurl >}}/resources/ps1)
 Problem Set 2
 {{< tdclose >}}
 {{< tdopen >}}
-Always at the right place at the right time ([PDF]({{< baseurl >}}/resources/ps2))
+Always at the right place at the right time ({{% resource_link 64f23ede-1c74-83ca-aa10-77b39b83baec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ Always at the right place at the right time ([PDF]({{< baseurl >}}/resources/ps2
 Problem Set 3
 {{< tdclose >}}
 {{< tdopen >}}
-It Boggles the Mind ([PDF]({{< baseurl >}}/resources/ps3))
+It Boggles the Mind ({{% resource_link fa72a118-e373-3a6b-4324-aac5a77546ad "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +54,7 @@ It Boggles the Mind ([PDF]({{< baseurl >}}/resources/ps3))
 Problem Set 4
 {{< tdclose >}}
 {{< tdopen >}}
-Cell Tower Tracking ([PDF]({{< baseurl >}}/resources/ps4))
+Cell Tower Tracking ({{% resource_link e17cd763-3045-6779-eefb-1aff5b2ffabf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +63,7 @@ Cell Tower Tracking ([PDF]({{< baseurl >}}/resources/ps4))
 Problem Set 5
 {{< tdclose >}}
 {{< tdopen >}}
-Remembering things forgotten ([PDF]({{< baseurl >}}/resources/ps5))
+Remembering things forgotten ({{% resource_link e2bc4481-b0ea-8a2b-06c4-a21d0cfbea6d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +72,7 @@ Remembering things forgotten ([PDF]({{< baseurl >}}/resources/ps5))
 Problem Set 6
 {{< tdclose >}}
 {{< tdopen >}}
-It's hard to recognize speech ([PDF]({{< baseurl >}}/resources/ps6))
+It's hard to recognize speech ({{% resource_link eb477a39-b4ee-b5f8-2393-c15129f0ef53 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
