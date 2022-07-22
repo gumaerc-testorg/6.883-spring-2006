@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Lecture notes section contains the class notes for the topics covered
+  during the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: a8c50161-3362-2f62-aaa2-7c5225f388bf
 ---
@@ -42,7 +47,7 @@ L2
 iPAQ, Python®, Connectivity
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2. 2 MB]({{< baseurl >}}/resources/l2_python_intro))
+({{% resource_link 16af5502-ace4-e084-c0e0-6f2757875eb5 "PDF - 2. 2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +59,7 @@ L3
 Socket Programming and Bluetooth
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.7 MB]({{< baseurl >}}/resources/l3))
+({{% resource_link f7328bce-992b-dc11-b38e-0dc0000093b0 "PDF - 1.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +73,7 @@ Discussion of Readings (cont.)
 Bluetooth Tutorial Slides
 {{< tdclose >}}
 {{< tdopen >}}
-Bluetooth Tutorial ([PDF]({{< baseurl >}}/resources/r2_bluetooth_tut))
+Bluetooth Tutorial ({{% resource_link 174043c6-531c-12d2-db27-fb724842c42f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +85,7 @@ L4
 More Bluetooth
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.1 MB]({{< baseurl >}}/resources/l4))
+({{% resource_link ec6e5b08-b76c-88c9-d91d-25673dde0433 "PDF - 2.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +97,7 @@ L5
 Location - GPS
 {{< tdclose >}}
 {{< tdopen >}}
-Location, Location, Location ([PDF - 3.8 MB]({{< baseurl >}}/resources/l5a))
+Location, Location, Location ({{% resource_link 9b89ed7b-98bc-66fe-0ab5-2e681e933094 "PDF - 3.8 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +109,7 @@ L6
 Location - API
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 4.1 MB]({{< baseurl >}}/resources/l6_proximity))
+({{% resource_link 8e4da2c6-fdb4-ab12-e5f1-4bbec7de18e5 "PDF - 4.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +121,7 @@ L7
 Location - Cricket
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2 MB]({{< baseurl >}}/resources/l7_batscrickets))
+({{% resource_link 3ef14f36-5936-b016-b8ae-dc689b1e8843 "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +133,7 @@ L8
 Python® on Series 60 Phones
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 5.0 MB]({{< baseurl >}}/resources/l8_symbianpython))
+({{% resource_link ae56429e-b6ac-a152-6560-5d553547c785 "PDF - 5.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,7 +145,7 @@ L9
 User Interface GUIs, More Phone Programming
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.7 MB]({{< baseurl >}}/resources/l9_symbpythonii))
+({{% resource_link 30cfcf83-74e6-beb9-a29c-63fbf70f1a1e "PDF - 3.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -154,7 +159,7 @@ Keyboards and GUIs
 The Dasher Project
 {{< tdclose >}}
 {{< tdopen >}}
-Keyboards and GUIs ([PDF - 2.2 MB]({{< baseurl >}}/resources/l10_gui))
+Keyboards and GUIs ({{% resource_link a12dd94f-a0f6-5365-a37b-d41a2bc5d7ee "PDF - 2.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +183,7 @@ L12
 XWand and Arrays
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.8 MB]({{< baseurl >}}/resources/l12_arrays))
+({{% resource_link 223cdcb2-38d6-4d90-50ff-ee712a27b362 "PDF - 1.8 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +207,7 @@ L14
 Pre-Recorded Speech (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Speech II ([PDF]({{< baseurl >}}/resources/l14_simplespeech))
+Speech II ({{% resource_link 736905d5-81d7-f190-80c0-d719b78d14b9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -226,7 +231,7 @@ L16
 Kiosk
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.7 MB]({{< baseurl >}}/resources/l16_kiosk))
+({{% resource_link 6cbc1ad8-7a18-cdf8-43e7-5f40fc6fdaba "PDF - 2.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -238,7 +243,7 @@ L17
 Sketching
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 4.7 MB]({{< baseurl >}}/resources/l17_sketch))
+({{% resource_link 362ca81a-4772-996e-0470-c2635a0f6bb9 "PDF - 4.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -250,7 +255,7 @@ L18
 Security
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.7 MB]({{< baseurl >}}/resources/l18_security))
+({{% resource_link 128f72de-d56b-a004-29ea-6780c3061af1 "PDF - 3.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -262,7 +267,7 @@ L19
 Debugging
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.9 MB]({{< baseurl >}}/resources/l19_spchanim_bbg))
+({{% resource_link 34f9b800-ab16-e2f7-6db9-6cc49379a01c "PDF - 3.9 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -274,7 +279,7 @@ L20
 Publish-Subscribe and Middleware
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.0 MB]({{< baseurl >}}/resources/l20_publish_subs))
+({{% resource_link be9bf341-5ffe-7f36-24a1-bc550d88768d "PDF - 3.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
