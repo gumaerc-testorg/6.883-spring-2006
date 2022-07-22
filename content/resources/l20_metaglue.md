@@ -5,6 +5,7 @@ file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/53c0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: l20_metaglue.pdf
 uid: 53c00caf-948b-4fbc-13f5-433a5340f0d8
 ---
 This file contains notes for How to create basic agents.
-

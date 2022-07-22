@@ -5,6 +5,7 @@ file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/f2f9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: l20_hyperglue.pdf
 uid: f2f99ee8-9ae2-1ece-63cb-9fc57571e413
 ---
 This file contains notes for Connecting Metaglue Spaces Together.
-

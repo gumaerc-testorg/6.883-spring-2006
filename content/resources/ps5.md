@@ -5,6 +5,7 @@ file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/e2bc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps5.pdf
 uid: e2bc4481-b0ea-8a2b-06c4-a21d0cfbea6d
 ---
 This file contains an exercise on using the phone as an memory assistant.
-

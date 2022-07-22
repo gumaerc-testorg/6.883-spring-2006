@@ -5,6 +5,7 @@ file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/1740
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: r2_bluetooth_tut.pdf
 uid: 174043c6-531c-12d2-db27-fb724842c42f
 ---
 This file contains notes on Bluetooth.
-

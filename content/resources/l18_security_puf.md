@@ -6,6 +6,7 @@ file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/9acd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: l18_security_puf.pdf
 uid: 9acdf75d-e5bf-c9d7-8635-6b6587cd7071
 ---
 This file contains notes for the topic: Physical Unclonable Functions and Applications.
-

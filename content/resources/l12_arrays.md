@@ -5,6 +5,7 @@ file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/223c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: l12_arrays.pdf
 uid: 223cdcb2-38d6-4d90-50ff-ee712a27b362
 ---
 This file contains notes on Xwands and Arrays etc.
-

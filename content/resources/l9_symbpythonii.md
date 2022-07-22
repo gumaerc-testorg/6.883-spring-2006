@@ -5,6 +5,7 @@ file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/30cf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: l9_symbpythonii.pdf
 uid: 30cfcf83-74e6-beb9-a29c-63fbf70f1a1e
 ---
 This file contains notes for Python on Series 60.
-

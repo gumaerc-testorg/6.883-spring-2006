@@ -6,6 +6,7 @@ file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/b264
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: l13_speech_intro.pdf
 uid: b26449e8-cbab-cc2c-cc04-0d00d4632665
 ---
 This file contains the notes for speech recognition, components of conversational speech etc.
-

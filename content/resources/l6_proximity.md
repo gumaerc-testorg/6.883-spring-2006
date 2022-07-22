@@ -6,6 +6,7 @@ file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/8e4d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: l6_proximity.pdf
 uid: 8e4da2c6-fdb4-ab12-e5f1-4bbec7de18e5
 ---
 This file contains notes for GPS, Location servers, client roles, Indoor tracking proximity events etc.
-

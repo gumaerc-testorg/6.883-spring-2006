@@ -6,6 +6,7 @@ file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/a12d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: l10_gui.pdf
 uid: a12dd94f-a0f6-5365-a37b-d41a2bc5d7ee
 ---
 This file contains notes for user interface goal, manipulation, widgets, mice etc.
-

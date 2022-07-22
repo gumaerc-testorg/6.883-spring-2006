@@ -6,6 +6,7 @@ file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/ae56
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: l8_symbianpython.pdf
 uid: ae56429e-b6ac-a152-6560-5d553547c785
 ---
 This file contains notes for phony programming, it lists various kinds of phones, Symbian OS basics etc.
-
