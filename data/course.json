@@ -45,8 +45,9 @@
   },
   "learning_resource_types": [
     "Exams",
-    "Lecture Notes"
+    "Lecture Notes",
+    "Problem Sets"
   ],
-  "site_uid": "18c0eb38-bb0a-459e-a37f-a24d581434c7",
+  "site_uid": "a21d8b4c-dbd5-49de-8e2e-265224e0957c",
   "title": "Course Metadata"
 }
