@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the notes for speech recognition, components of conversational
   speech etc.
 file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/b26449e8cbabcc2ccc040d00d4632665_l13_speech_intro.pdf
+file_size: 4577656
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
