@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains notes for Python on Series 60.
 file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/30cfcf8374e6beb9a29c63fbf70f1a1e_l9_symbpythonii.pdf
+file_size: 4973065
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
