@@ -55,7 +55,7 @@ More Bluetooth
 
 Something on Pocketpc vs. Symbian vs. Linux®
 
-[Symbian Python® Programming](http://company.nokia.com/en/news/press-releases/2005/01/31/nokia-launches-python-open-source-programming-language-for-series-60-based-mobile-devices)
+Symbian Python® Programming
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L5
