@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the notes for Why linux, Ipaq on linux, handheld linux
   products etc.
-file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/7eb8f232593448d4e95938c2cf930333_l2_ipaqlinux_hic.pdf
+file: /ol-ocw-studio-app/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/7eb8f232593448d4e95938c2cf930333_l2_ipaqlinux_hic.pdf
 file_size: 2923968
 file_type: application/pdf
 learning_resource_types:
