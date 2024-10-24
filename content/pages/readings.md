@@ -35,7 +35,7 @@ Pilgrim, Mark. *Dive Into Python®*. Berkeley, CA: Apress, 2004. ISBN: 159059356
 
 [Python® Tutorial](http://docs.python.org/tutorial/)
 
-[Dive into Python®](http://www.diveintopython.net/)
+Dive into Python®
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L3
