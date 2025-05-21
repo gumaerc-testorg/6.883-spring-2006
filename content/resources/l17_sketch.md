@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/362ca81a4772996e0470c2635a0f6bb9_l17_sketch.pdf
+file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/362ca81a4772996e0470c2635a0f6bb9_l17_sketch.pdf
 file_size: 4712374
 file_type: application/pdf
 learning_resource_types:

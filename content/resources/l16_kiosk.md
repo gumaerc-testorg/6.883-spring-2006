@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains intelligent environments, kiosks, useful information
   etc.
-file: /ol-ocw-studio-app/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/6cbc1ad87a18cdf843e75f40fc6fdaba_l16_kiosk.pdf
+file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/6cbc1ad87a18cdf843e75f40fc6fdaba_l16_kiosk.pdf
 file_size: 2727504
 file_type: application/pdf
 learning_resource_types:

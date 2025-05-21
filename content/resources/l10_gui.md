@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes for user interface goal, manipulation, widgets,
   mice etc.
-file: /ol-ocw-studio-app/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/a12dd94fa0f65365a37bd41a2bc5d7ee_l10_gui.pdf
+file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/a12dd94fa0f65365a37bd41a2bc5d7ee_l10_gui.pdf
 file_size: 2297043
 file_type: application/pdf
 learning_resource_types:
