@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes on Bluetooth.
-file: /ol-ocw-studio-app/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/174043c6531c12d2db27fb724842c42f_r2_bluetooth_tut.pdf
+file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/174043c6531c12d2db27fb724842c42f_r2_bluetooth_tut.pdf
 file_size: 377442
 file_type: application/pdf
 learning_resource_types:
