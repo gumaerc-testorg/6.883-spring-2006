@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the quiz questions for topics covered in the course.
-file: /courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/43502e24ecef3728f6cd87320c62ad27_quiz_questions.pdf
+file: /ol-ocw-studio-app/courses/6-883-pervasive-human-centric-computing-sma-5508-spring-2006/43502e24ecef3728f6cd87320c62ad27_quiz_questions.pdf
 file_size: 12176
 file_type: application/pdf
 learning_resource_types:
