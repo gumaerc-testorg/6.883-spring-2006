@@ -21,9 +21,9 @@ L1
 Overview
 {{< tdclose >}}{{< tdopen >}}
 
-Weiser, Mark, and John Seely Brown. "[The Coming Age of Calm Technology](https://pdfs.semanticscholar.org/23a6/cdc72fa2a59d62ea94aa68cfe484982cf2b8.pdf)." *Xerox PARC* (October 5, 1996).
+Weiser, Mark, and John Seely Brown. "{{% resource_link "4d908fcf-d4f3-4d60-8972-bc9b614a31c5" "The Coming Age of Calm Technology" %}}." *Xerox PARC* (October 5, 1996).
 
-Weiser, Mark. "[Computer Science Challenges for the Next Ten Years](https://www.youtube.com/watch?v=7jwLWosmmjE)." (Slides.)
+Weiser, Mark. "{{% resource_link "9ee4d4c0-d6af-4933-966d-cf0f39af1c99" "Computer Science Challenges for the Next Ten Years" %}}." (Slides.)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L2
@@ -33,7 +33,7 @@ iPAQ, Python®, Connectivity
 
 Pilgrim, Mark. *Dive Into Python®*. Berkeley, CA: Apress, 2004. ISBN: 1590593561.
 
-[Python® Tutorial](http://docs.python.org/tutorial/)
+{{% resource_link "6a0c1de3-6e08-4ecf-b790-a1ce97032a8f" "Python® Tutorial" %}}
 
 Dive into Python®
 
@@ -73,9 +73,9 @@ Barkuss-Dey. "Computing Taking Control away from the User?" *UbiComp* (2003): 14
 
 Chen, Guanling, and David Kotz. "A Survey of Context-Aware Mobile Computing Research." Dartmouth Computer Science Technical Report TR2000-381 (November 2000).
 
-[Context Aware Toolkit](http://www.cs.cmu.edu/%7Eanind/context.html)
+{{% resource_link "d0db5aa5-9bc0-4eeb-a9a0-5cd8f071fc2a" "Context Aware Toolkit" %}}
 
-[Google™ Maps API](https://developers.google.com/maps/documentation)
+{{% resource_link "85abf1e4-ecdd-4812-b00c-f6bafa243686" "Google™ Maps API" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L6
@@ -114,7 +114,7 @@ Keyboards and GUIs
 The Dasher Project
 
 {{< tdclose >}}{{< tdopen >}}
-[The Dasher Project](http://www.inference.phy.cam.ac.uk/dasher/)
+{{% resource_link "f9e8d618-48ef-4a29-8092-16e473f39ffd" "The Dasher Project" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L11
 {{< tdclose >}}{{< tdopen >}}
@@ -126,7 +126,7 @@ L12
 {{< tdclose >}}{{< tdopen >}}
 XWand and Arrays
 {{< tdclose >}}{{< tdopen >}}
-[XWand](http://research.microsoft.com/%7Eawilson/wand/default.htm)
+{{% resource_link "d7fc1ea2-3df9-424f-a920-b2988390f8e0" "XWand" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L13
 {{< tdclose >}}{{< tdopen >}}
